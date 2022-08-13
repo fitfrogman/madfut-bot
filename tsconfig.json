@@ -1,0 +1,12 @@
+{
+    "extends": "@tsconfig/node14/tsconfig.json",
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"],
+    "compilerOptions": {
+        "incremental": false,
+        "outDir": "dist",
+        "target": "ES2022",
+        "module": "ESNext",
+        "moduleResolution": "node"
+    },
+}

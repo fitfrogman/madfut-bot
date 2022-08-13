@@ -1,0 +1,15 @@
+{
+    "botToken": "",
+    "guildId": "",
+    "adminChannelId": "",
+    "moderatorRoleId": "",
+    "tradingChannelId": "",
+    "coinFlipChannelId": "",
+    "commandsChannelId": "",
+    "giveawayPingRoleId": "",
+    "appCheckToken": "",
+    "madfutEmail": "",
+    "madfutPassword": "",
+    "shoppySecret": "",
+    "shopLogChannelId": ""
+}

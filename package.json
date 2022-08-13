@@ -1,0 +1,26 @@
+{
+  "name": "firebase-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx swc src -d dist && node dist/index",
+    "start-tsc": "npx tsc && node dist/index",
+    "compile": "npx tsc"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "eris": "^0.16.0",
+    "firebase": "^9.4.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.51",
+    "@swc/core": "^1.2.108",
+    "@tsconfig/node14": "^1.0.1",
+    "@types/sqlite3": "^3.1.7",
+    "typescript": "^4.4.4"
+  }
+}
