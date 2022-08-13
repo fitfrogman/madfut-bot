@@ -1,15 +1,16 @@
 {
-    "botToken": "",
-    "guildId": "",
-    "adminChannelId": "",
-    "moderatorRoleId": "",
-    "tradingChannelId": "",
-    "coinFlipChannelId": "",
-    "commandsChannelId": "",
-    "giveawayPingRoleId": "",
-    "appCheckToken": "",
+    "botToken": "OTk5Njg0OTc3OTE2NjYxNzgw.GzaLnH.xcyMifkHp3DslKI5Z4B8181tBmPJj2rqPgl-Uk",
+    "guildId": "968990759246233700",
+    "adminChannelId": "999685599869030450",
+    "moderatorRoleId": "987456515105493064",
+    "tradingChannelId": "992827677654392882",
+    "coinFlipChannelId": "992827717668065300",
+    "commandsChannelId": "992827614240714842",
+    "giveawayPingRoleId": "987456575033712650",
+    "appCheckToken": "dad",
     "madfutEmail": "",
     "madfutPassword": "",
     "shoppySecret": "",
     "shopLogChannelId": ""
 }
+
